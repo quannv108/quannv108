@@ -67,11 +67,10 @@ I'm a seasoned Technical Lead and Backend Team Lead with 10+ years of experience
 ![Edge AI](https://img.shields.io/badge/-Edge%20AI-00D4AA?style=flat-square&logo=nvidia&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-4285F4?style=flat-square&logo=google&logoColor=white)
 
-### Libraries & Frameworks
 ![Boost C++](https://img.shields.io/badge/-Boost%20C++-003366?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![IoT](https://img.shields.io/badge/-IoT-009639?style=flat-square&logo=internetofthings&logoColor=white)
 
-## � Professional Highlights
+## Professional Highlights
 
 <div align="center">
 
@@ -91,7 +90,7 @@ I'm a seasoned Technical Lead and Backend Team Lead with 10+ years of experience
 📱 Mobile Applications   🔐 Enterprise Security   📊 Data Analytics
 ```
 
-## �📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=quannv108&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -105,18 +104,6 @@ I'm a seasoned Technical Lead and Backend Team Lead with 10+ years of experience
   
 *📝 Note: Most of my professional work is in private enterprise repositories*
 
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quannv108&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quannv108&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🎯 Current Focus
